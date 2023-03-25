@@ -1,5 +1,8 @@
 # CafeInfoYou
+📆 **프로젝트 진행기간 : 2023/01/26 ~ 2023/02/04**<br>
+🔷**역할 : 프론트엔드, 팀 리더**
 
+## 메인 화면
 <p align="center">
   <br>
   <img width="1227" height="600" alt="메인 화면" src="https://user-images.githubusercontent.com/62414262/227697470-ec1307ec-58fe-433b-af5a-a15a1e342920.png">
@@ -9,16 +12,18 @@
 ## 프로젝트 소개
 
 <p align="justify">
-프로젝트 개요/동기
+카페 추천 사이트 <br>
+지역을 입력하면 카페를 추천해주고 리뷰순, 대형, 디저트 카페를 특정하여 찾을 수 있다
 </p>
 
 <p align="center">
-GIF Images
+![ezgif com-optimize](https://user-images.githubusercontent.com/62414262/227705718-6563aec0-2e18-47d5-b7d4-f311616fec91.gif)
 </p>
 
 <br>
 
 ## 기술 스택
+
 
 | Frontend | Backend |
 | :--------: | :--------: |
@@ -29,13 +34,10 @@ GIF Images
 
 ## 구현 기능
 
-### 기능 1
+### 필터 UI
 
-### 기능 2
+### 필터 기능
 
-### 기능 3
-
-### 기능 4
 
 <br>
 
